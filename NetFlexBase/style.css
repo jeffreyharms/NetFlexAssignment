@@ -19,8 +19,10 @@ body {
 }
 
 .navleft {
+    height: 70px;
     list-style: none;
     justify-content: space-around;
+    text-align: center;
     width: 600px;
     padding-left: 10px;
     display: flex;
